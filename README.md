@@ -1,12 +1,12 @@
-# LP1
 
-# [Your Art Project Name]
 
-Welcome to the official website of **[Your Art Project Name]**! This is a space dedicated to [brief description of your art project, its mission, or its theme].
+# Local Pollution
+
+Welcome
 
 ## Upcoming Events
 
-Stay tuned for upcoming events related to the project! We are organizing [workshops, performances, exhibitions, etc.] to connect with others in the creative community.
+Stay tuned for upcoming events related to the project! We are organising ___ to connect with others in the creative community.
 
 ### Next Event:
 - **Event Name**: [Event name]
@@ -17,11 +17,11 @@ Stay tuned for upcoming events related to the project! We are organizing [worksh
 
 ## About the Project
 
-[Brief paragraph about the project's origins, goals, and what makes it unique. What inspires the project? Who is involved?]
+Local Pollution started as .....
 
 ## Get Involved
 
-Want to collaborate, perform, or contribute to the project? We’re always looking for artists and creatives to join us!
+Want to collaborate, perform, or contribute to the project? We’re looking for artists to join us at one of our upcoming events !
 
 - [Link to a form, email, or other method for collaboration]
 
@@ -35,7 +35,7 @@ Have questions or want to learn more? Feel free to reach out to us.
 
 ## Support
 
-If you want to support this project, we appreciate any contributions! [Link to donation platform if applicable]
+If you want to support this project, come and join us in person or send demos of ______ ! [Link to ]
 
 ---
 
