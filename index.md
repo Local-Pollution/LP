@@ -3,19 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Art Project</title>
+  <title>Local Pollution</title>
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
   <header>
-    <h1>Welcome to [Your Art Project Name]</h1>
+    <h1>Welcome to Local Pollution</h1>
     <nav>
       <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="about.html">About</a></li>
         <li><a href="events.html">Events</a></li>
         <li><a href="contact.html">Contact</a></li>
-        <li><a href="donate.html">Support</a></li>
       </ul>
     </nav>
   </header>
@@ -35,7 +34,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 [Your Art Project Name]. All rights reserved.</p>
+    <p>&copy; 2025 Local Pollution. All rights reserved.</p>
   </footer>
 </body>
 </html>
